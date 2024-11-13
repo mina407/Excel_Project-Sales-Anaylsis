@@ -21,7 +21,10 @@ This project involves a comprehensive analysis of Sales Data using Excel. The go
 * ### Age Group Analysis:
 ![](https://github.com/mina407/Excel_Project/blob/main/Age.png)
 * ### Total Product & Sold Product & UnSoldProduct
-![]()
+![](https://github.com/mina407/Excel_Project/blob/main/Products.png)
+* ### Most 2 Country Genrate Profit
+![](https://github.com/mina407/Excel_Project/blob/main/country.png)
 
-
-
+# Getting Started
+* Prerequisites
+  - Microsoft Excel
