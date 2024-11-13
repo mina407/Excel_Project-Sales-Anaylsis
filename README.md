@@ -14,3 +14,9 @@ This project involves a comprehensive analysis of Sales Data using Excel. The go
 * List and analyze Country based on Protit.
 * Explore and categorize Age and compare between Age-Group.
 * ## Business Problems and Solutions
+* ### Top 5 Products Chart
+![](https://github.com/mina407/Excel_Project/blob/main/top%205%20products.png)
+* ### Top 5 Customers Chart
+![](https://github.com/mina407/Excel_Project/blob/main/top%205%20customers.png)
+
+
