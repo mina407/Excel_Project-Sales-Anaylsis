@@ -19,7 +19,7 @@ This project involves a comprehensive analysis of Sales Data using Excel. The go
 * ### Top 5 Customers Chart
 ![](https://github.com/mina407/Excel_Project/blob/main/top%205%20customers.png)
 * ### Age Group Analysis:
-![]()
+![](https://github.com/mina407/Excel_Project/blob/main/Age.png)
 
 
 
